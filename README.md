@@ -38,7 +38,7 @@ Včasih pride prav značka <kbd>kbd</kbd> za tipke. Značko uporabimo takole:
 <!-- 2. nivojski razdelek -->
 Uporabne povezave
 
-FMF učilnica <!-- https://ucilnica.fmf.uni-lj.si/ -->
-Računalniški sistemi, storitve in oprema za študente <!-- https://ucilnica.fmf.uni-lj.si/mod/page/view.php?id=51619 -->
-Zapiski in vaje za Računalniški praktikum <!-- http://katjabercic.github.io/racunalniski-praktikum -->
-Dokumentacija za Markdown na GitHubu <!-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
+[FMF učilnica](https://ucilnica.fmf.uni-lj.si/)
+[Računalniški sistemi, storitve in oprema za študent](https://ucilnica.fmf.uni-lj.si/mod/page/view.php?id=51619)
+[Zapiski in vaje za Računalniški praktikum](http://katjabercic.github.io/racunalniski-praktikum)
+[Dokumentacija za Markdown na GitHubu](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/)
