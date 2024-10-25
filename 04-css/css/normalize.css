@@ -55,10 +55,43 @@ main {
  * `article` contexts in Chrome, Firefox, and Safari.
  */
 
+#uvod
+{
+  padding: 2em;
+  background-color: rgb(51, 0, 102, 0.1)
+}
+
+.slika
+{
+  font-size: 0.9;
+  width:40%;
+  text-align:left;
+  float: right;
+  margin-left:2px;
+}
+.slika img
+{
+  width: 100%;
+  height: auto;
+}
+
+
+
+
 h1 {
+  color: #330066;
   font-size: 2em;
   margin: 0.67em 0;
 }
+
+h2
+{
+  margin-top : 2em;
+  border-top : 1px solid #aaaa;
+  padding-top: 0.5em;
+}
+
+
 
 /* Grouping content
    ========================================================================== */
@@ -120,6 +153,7 @@ b,
 strong {
   font-weight: bolder;
 }
+
 
 /**
  * 1. Correct the inheritance and scaling of font size in all browsers.
