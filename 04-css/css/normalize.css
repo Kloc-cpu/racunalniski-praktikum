@@ -63,21 +63,28 @@ main {
 
 .slika
 {
-  font-size: 0.9;
+  font-size: 0.9em;
   width:40%;
   text-align:left;
   float: right;
-  margin-left:2px;
+  margin-left:20px;
 }
+
 .slika img
 {
   width: 100%;
   height: auto;
+  border-radius:50%
+}
+.slika p:last-child
+{
+  font-size: 0.8em;
 }
 
-
-
-
+a::before
+{
+content:"🐬"
+}
 h1 {
   color: #330066;
   font-size: 2em;
