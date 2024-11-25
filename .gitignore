@@ -1,3 +1,3 @@
 latex-pregled/*
-test/*
+06-uvod-v-latex/test/*
 !latex-pregled/*.tex
